@@ -7,6 +7,7 @@ import gdown
 from PIL import Image
 
 # Model path
+file_id = "1r12dsZFYKCUsdhUjPi4jAOE-7gol-C0u"
 model_path = "trained_plant_disease_model.keras"
 gdrive_url = "https://drive.google.com/file/d/1r12dsZFYKCUsdhUjPi4jAOE-7gol-C0u/view?usp=sharing"  # Modified Google Drive link
 
